@@ -1,0 +1,53 @@
+#container {
+    border-style: solid black;
+    margin-top: 70px;
+    margin-left: 10%;
+    margin-right: 10;
+    margin: 50px;
+}
+
+.head{
+    font-size: 20px;
+    padding-bottom: 35px;
+}
+
+
+th {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+td{
+    padding-right: 40px;
+}
+
+.pagination {
+    display: inline-block;
+    margin-left: 985px;
+ }
+  
+  .pagination a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  .pagination a.active {
+    background-color: #04a6e6;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .pagination a:hover:not(.active) {
+    background-color: #ddd;
+    border-radius: 5px;
+  }
+
+
+
+
+
+
+
